@@ -1,0 +1,105 @@
+
+
+
+body{color: white;}
+.bg-dark {background-color: #2d2e2f !important;}
+nav ul li p a:hover{text-decoration: none;}
+#stickynav{background-color: #2d2e2f;}
+.logo{width: 20%;height: 100%;}
+.links{width: 60%;background-color:grey;height: 100%;}
+.but{width: 20%;height: 100%;}
+#j1{
+background: url('pics/sls_mainbanner.jpg') no-repeat center center;
+height: 590px; 
+top:0;
+left:0;
+
+}
+
+#j2{
+background: url('slsgridblock1.jpg') no-repeat center center;
+height: 600px; 
+
+}
+.btn-light{background-color: #3a0f4e !important;color:white;}
+.btn-link{background-color: #2d2e2f !important;color:white;border:2px solid white;}
+.btn-link:hover{background-color: #f8f9fa !important;color:#2d2e2f;border:2px solid #2d2e2f;text-decoration: none;}
+#navb-dark{background-color: #656666 !important;}
+.text-muted {color: #caced2 !important;}
+#btnmod:hover{background-color: #ecf3f3 !important;color:#3a0f4e}
+#greleft{padding-left: 100px;}
+#greright{padding-left: 100px;}
+.text-primary{color:rgb(80, 124, 150);}
+.bg-warning{background-color: #7926dd !important;color:rgb(252, 249, 249) !important;}
+.btn-dark{background-color: black !important; border:2px solid white;}
+@media screen and (min-width: 300px) and (max-width: 10000px)
+{
+    .accord {display:none}
+}
+@media screen and (min-width: 300px) and (max-width: 700px)
+{
+.accord {display: block;}
+.x {display:none;}
+.se {display:none;}
+}
+.ui-accordion-header { background-color: rgb(56, 55, 55); color:white;width:100%;height: 100%; }
+.ui-accordion-header.ui-state-active { color:white;width:100%;height: 100%; }
+.accordio div{background-color: rgb(56, 55, 55);}
+.accordionn div{background-color: rgb(56, 55, 55);}
+.form-control{background-color: white;color:white;}
+.b-op{background-color: black;color: white;border: 2px solid white;opacity:0.9;}
+.b-op:hover{background-color: rgb(255, 253, 253);color: rgb(10, 10, 10);}
+.l1{text-decoration: underline;color:white;}
+.l1:hover{text-decoration: none;}
+#greenpic{background-color:green;}
+.card-col{background-color:rgb(147, 148, 147);}
+.media{width:100px;}
+.rounded{background-color: black;border:3px solid white;}
+.colorofdiv{background-color: rgb(241, 229, 229);color:black;}
+.vcol{color:rgb(113, 20, 126);}
+.grewo{color:rgb(134, 133, 133);}
+.bluediv{background-color: rgb(227, 240, 248);color:black;}
+.l3{text-decoration: underline;color: rgb(82, 3, 82);}
+.l3:hover{text-decoration: none;}
+.gdiv{background-color:rgb(160, 159, 158);}
+.l4{text-decoration:none;color: rgb(43, 42, 42);}
+.l4:hover{text-decoration:none;color: rgb(43, 42, 42);}
+.l5{color: rgb(43, 42, 42);}
+.flex1{   display: flex;
+justify-content: center;
+flex-wrap: wrap;}
+
+
+.footlink1
+{
+color: rgb(245, 249, 250);   
+text-decoration: none;
+}
+
+.footlink2
+{
+color: rgb(111, 108, 248);
+text-decoration: none;
+}
+.rotate1{
+-moz-transition: all 2s linear;
+-webkit-transition: all 2s linear;
+transition: all 2s linear;
+
+}
+
+.rotate1.down{
+-ms-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-webkit-transform: rotate(90deg);
+transform: rotate(90deg);
+}
+.rotate1{color: white;}
+.rotate2{color: rgb(68, 150, 226);}
+
+
+.forclicbtn{width:50%;height:100%;overflow: scroll;
+}
+.forclicbtn{float:right;background-color: rgb(219, 215, 215);}
+.bo{color:black;}
+.tp{color:rgb(89, 139, 192);}
